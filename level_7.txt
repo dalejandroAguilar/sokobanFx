@@ -1,0 +1,12 @@
+BBBBBB    
+B    B    
+B  X BBBB 
+B XX B  BB
+B B BBX  B
+BRRR  RR B
+BBBBBBB BB
+B   BB   B
+BGX   RX B
+B   BB   B
+B   BBBBBB
+BBBBB     

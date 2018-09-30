@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="9">
+        <file>
+            <url>src/sokobanfx/ManifestarLevel.java</url>
+            <bookmark id="7">
+                <name/>
+                <line>84</line>
+                <key/>
+            </bookmark>
+            <bookmark id="3">
+                <name/>
+                <line>337</line>
+                <key/>
+            </bookmark>
+            <bookmark id="4">
+                <name/>
+                <line>352</line>
+                <key/>
+            </bookmark>
+            <bookmark id="9">
+                <name/>
+                <line>359</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>src/sokobanfx/Sokoban.java</url>
+            <bookmark id="2">
+                <name/>
+                <line>142</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Daniel/Documents/NetBeansProjects/SokobanFx/src/sokobanfx/LevelsManage.java</file>
+            <file>file:/C:/Users/Daniel/Documents/NetBeansProjects/SokobanFx/src/sokobanfx/PathFinding.java</file>
+            <file>file:/C:/Users/Daniel/Documents/NetBeansProjects/SokobanFx/src/sokobanfx/ManifestarLevel.java</file>
+            <file>file:/C:/Users/Daniel/Documents/NetBeansProjects/SokobanFx/src/database/Person.java</file>
+            <file>file:/C:/Users/Daniel/Documents/NetBeansProjects/SokobanFx/src/sokobanfx/Sokoban.java</file>
+            <file>file:/C:/Users/Daniel/Documents/NetBeansProjects/SokobanFx/src/sokobanfx/SokobanFx.java</file>
+            <file>file:/C:/Users/Daniel/Documents/NetBeansProjects/SokobanFx/src/sokobanfx/MenuAndroid.java</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,8 @@
+       BBBBB
+BBBBBBBB   B
+B RRRRRRX  B
+B  BXBBB   B
+BB XGX B   B
+ B X X B   B
+ B     BBBBB
+ BBBBBBB    

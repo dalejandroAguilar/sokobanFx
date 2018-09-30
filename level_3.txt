@@ -1,0 +1,9 @@
+BBBBB    
+BG  B    
+B XXB BBB
+B X B BRB
+BBB BBBRB
+ BB    RB
+ B   B  B
+ B   BBBB
+ BBBBB   
